@@ -1,7 +1,7 @@
 {
-  "version_code": 1,
-  "version_name": "1.0",
-  "changelog": "test",
-  "apk_url": "https://github.com/test/test.apk",
-  "force": false
+    "version_code": 77,
+    "version_name": "7.7",
+    "changelog": "",
+    "apk_url": "https://github.com/synthexsupport-dot/Synthex-Store-s/releases/download/v7.6/maya-v7.6.apk",
+    "force": false
 }
