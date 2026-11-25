@@ -1,7 +1,7 @@
 {
-    "version_code": 76,
-    "version_name": "7.6",
-    "changelog": "",
-    "apk_url": "https://github.com/synthexsupport-dot/Synthex-Store-s/releases/download/v7.6/maya-v7.6.apk",
+    "version_code": 80,
+    "version_name": "8=0",
+    "changelog": "✨ MAYA ASSISTANT — WHAT'S NEW\r\n\r\nA whole new multilingual experience is here! 🌍\r\n\r\n🌐 ONE MAYA. THREE LANGUAGES.\r\n\r\nNow Maya speaks your language!\r\n\r\n🇮🇳 বাংলা (Bengali)\r\n\r\n- সম্পূর্ণ বাংলা ভাষায় Maya ব্যবহার করুন।\r\n- বাংলা Voice Commands ও AI Responses।\r\n- বাংলা Interface এবং Voice Experience।\r\n\r\n🇮🇳 हिन्दी (Hindi)\r\n\r\n- अब Maya का इस्तेमाल पूरी हिन्दी में करें।\r\n- हिन्दी Voice Commands और AI Responses।\r\n- हिन्दी Interface और Voice Experience।\r\n\r\n🇬🇧 English\r\n\r\n- Use Maya entirely in English.\r\n- English Voice Commands and AI Responses.\r\n- English Interface and Voice Experience.\r\n\r\nMore Language Freedom\r\n\r\n- New Language Selection Popup on app startup.\r\n- Switch between Bengali, Hindi & English anytime from Settings.\r\n- Your selected language controls the app interface, AI responses, voice announcements and speech recognition.\r\n- A consistent experience across all three languages.\r\n\r\n🎨 A FRESH NEW DESIGN\r\n\r\n- Modern & Premium UI.\r\n- Improved Glassmorphism Design.\r\n- Cleaner Settings and Features pages.\r\n- Better Cards, Buttons & Navigation.\r\n- Smoother animations and interactions.\r\n\r\n👁️ MAYA EYE\r\n\r\n- Live Screen Observation.\r\n- Screen-aware assistance.\r\n- Better understanding of what's happening on your phone.\r\n\r\n🧠 AI & OTHER IMPROVEMENTS\r\n\r\n- Better context understanding.\r\n- More natural conversations.\r\n- Multilingual Smart Alarm.\r\n- Improved time and number pronunciation.\r\n- Stability and permission handling improvements.\r\n\r\nYour Language. Your Maya. Your Experience. ❤️\r\n\r\nMaya Assistant\r\nPowered by Synthex.",
+    "apk_url": "https://github.com/synthexsupport-dot/Synthex-Store-s/releases/download/v8.0/maya.apk",
     "force": false
 }
